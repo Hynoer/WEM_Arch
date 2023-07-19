@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2023-05-24T12:46:08.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Mo9J6-Y1tkIrgrZyV7ME" version="21.3.2" type="device">
+  <diagram name="Page-1" id="_3il1Z9KHpxXZuOZ5kze">
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-1" value="Don&#39;t ban peoples for buying gold" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-2" value="Be slow to ban bot" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lQAXZZWjbg1vGyBSmsWU-2" target="lQAXZZWjbg1vGyBSmsWU-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="280" as="sourcePoint" />
+            <mxPoint x="220" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-6" value="Indirect selling gold to player by charging sub to bot" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-7" value="People more and more tented to buy as economie inflate" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-8" value="Propose token as legal way to buy gold" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lQAXZZWjbg1vGyBSmsWU-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="310" as="sourcePoint" />
+            <mxPoint x="460" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-11" value="Explain yourself that players buy gold anyway" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="414" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.433;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lQAXZZWjbg1vGyBSmsWU-8" target="lQAXZZWjbg1vGyBSmsWU-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="250" as="sourcePoint" />
+            <mxPoint x="500" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-13" value="????" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-15" value="Profit" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="650" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-16" value="Farm less effective to make gold" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="322" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lQAXZZWjbg1vGyBSmsWU-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lQAXZZWjbg1vGyBSmsWU-6" target="lQAXZZWjbg1vGyBSmsWU-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="342" as="sourcePoint" />
+            <mxPoint x="350" y="402" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
